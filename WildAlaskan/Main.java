@@ -1,3 +1,4 @@
+package WildAlaskan;
 import WildAlaskan.cart.ShoppingCart;
 
 public class Main {
